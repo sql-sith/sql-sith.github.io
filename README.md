@@ -1,4 +1,8 @@
-# Christmas List for Chris
+---
+title: Chris's Christmas List
+---
+
+# Chris's Christmas Gift and Charity List
 
 I'm putting my Christmas list on GitHub so I can say things about each item. Also, I can't help it - everything goes on GitHub. Most of these are too expensive for Secret Santa. Beyond that, I don't know what anybody's budget is for Christmas, so feel free to team up on gifts if you want.
 
