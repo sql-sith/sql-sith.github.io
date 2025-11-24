@@ -32,6 +32,8 @@ Even though I like getting presents, you know I don't need anything, and I'm alw
 
 ## OpenGarage Universal Wifi Garage Door Opener
 
+I run a very secure OS on my phone, which is great, but it breaks some apps. This device would let me run a local server to control our garage (and later lights, cameras, TV, etc.) without relying on Google, Amazon, or Microsoft. That sounds fun.
+
 - Version 2.3+ (for Chamberlain, Liftmaster, Craftsman)
 - Including the USB adapter would be nice
 - Currently $46, marked down from $56
