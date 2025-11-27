@@ -74,5 +74,5 @@ Undershirts are great for layers. I hardly ever wear them because mine are ancie
 
 My watchband is falling apart. I have a Samsung Watch6 Classic, size 43mm (some are 47mm, so look out for that). I trust you to pick out a good one. My watch is silver around the outside. I'll change the watch fact to go with whatever you pick.
 
-[watch with blank face](../watch-medium.jpg) [watch with red face](../watch-with-face-medium.jpg)
+![watch with blank face](../watch-medium.jpg) ![watch with red face](../watch-with-face-medium.jpg)
 
