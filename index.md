@@ -1,6 +1,5 @@
 ---
 title: Chris's Christmas List
-custom_css: side-by-side
 ---
 
 # Chris's Christmas Gift and Charity List
