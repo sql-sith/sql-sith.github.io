@@ -1,6 +1,8 @@
 ---
 title: Chris's Christmas List
 ---
+<!-- at the top of index.md for quick test only -->
+<link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}">
 
 # Chris's Christmas Gift and Charity List
 
@@ -72,7 +74,7 @@ Undershirts are great for layers. I hardly ever wear them because mine are ancie
 
 ## Watchband
 
-My watchband is falling apart. I have a Samsung Watch6 Classic, size 43mm (some are 47mm, so look out for that). I trust you to pick out a good one. My watch is silver around the outside. I'll change the watch fact to go with whatever you pick.
+My watchband is falling apart. I have a Samsung Watch6 Classic, size 43mm (some are 47mm, so look out for that). I trust you to pick out a good one. My watch is silver around the outside. I'll change the watch face to something that goes with the watchband you buy, or you can pick one out for me. :)
 
 <div class="side-by-side">
   <img src="{{ '/img/watch-medium.jpg' | relative_url }}" alt="watch with blank face">
