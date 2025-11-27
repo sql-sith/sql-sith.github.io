@@ -69,3 +69,10 @@ Undershirts are great for layers. I hardly ever wear them because mine are ancie
 
 - Here's some [normal ones](https://www.amazon.com/Hanes-Essentials-Crewneck-Available-Fashion-t-shirts/dp/B00W9MU7UK/ref=sxin_17_sx_hve_deal?content-id=amzn1.sym.79b3b15c-b438-4704-a2b9-361704a22de6%3Aamzn1.sym.79b3b15c-b438-4704-a2b9-361704a22de6&crid=UK4L9LO0ETKA&cv_ct_cx=men%27s%2Bundershirts&keywords=men%27s%2Bundershirts&pd_rd_i=B00W9MU7UK&pd_rd_r=e01baa5d-efd4-4165-abaf-62c657fa6105&pd_rd_w=88G6y&pd_rd_wg=1xmmJ&pf_rd_p=79b3b15c-b438-4704-a2b9-361704a22de6&pf_rd_r=M07D9HWXC8CW58PQ382Q&qid=1763946668&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=men%27s%2Bundershirts%2Caps%2C333&sr=1-3-9036c2af-0d6a-4007-a635-d50f3d0f5a3b&th=1&psc=1)
 - These cost more, but they're [bamboo cotton](https://www.amazon.com/BAMBOO-COOL-Undershirt-Moisture-Wicking-T-Shirts/dp/B0BXFHW91M/ref=sxin_17_sx_hve_deal?content-id=amzn1.sym.79b3b15c-b438-4704-a2b9-361704a22de6%3Aamzn1.sym.79b3b15c-b438-4704-a2b9-361704a22de6&crid=UK4L9LO0ETKA&cv_ct_cx=men%27s%2Bundershirts&keywords=men%27s%2Bundershirts&pd_rd_i=B0BXFHW91M&pd_rd_r=e01baa5d-efd4-4165-abaf-62c657fa6105&pd_rd_w=88G6y&pd_rd_wg=1xmmJ&pf_rd_p=79b3b15c-b438-4704-a2b9-361704a22de6&pf_rd_r=M07D9HWXC8CW58PQ382Q&qid=1763946668&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=men%27s%2Bundershirts%2Caps%2C333&sr=1-4-9036c2af-0d6a-4007-a635-d50f3d0f5a3b&th=1&psc=1). Hmm...
+
+## Watchband
+
+My watchband is falling apart. I have a Samsung Watch6 Classic, size 43mm (some are 47mm, so look out for that). I trust you to pick out a good one. My watch is silver around the outside. I'll change the watch fact to go with whatever you pick.
+
+[watch with blank face](../watch-medium.jpg) [watch with red face](../watch-with-face-medium.jpg)
+
