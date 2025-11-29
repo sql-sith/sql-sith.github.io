@@ -81,3 +81,10 @@ My watchband is falling apart. I have a Samsung Watch6 Classic, size 43mm (some 
   <img src="{{ '/img/watch-with-face-medium.jpg' | relative_url }}" alt="watch with red face">
 </div>
 
+## Bike Pump
+
+After my bike's tires lost pressure, I realized that I didn't have a pump! The USB-rechargeable ones are good, but I like the old-school frame-mountable ones because they don't need to be charged :) Here's an example of each:
+
+- [Frame mountable, dad-powered](https://www.amazon.com/Pro-Bike-Tool-Schrader-Compatible/dp/B00XLGKU14/ref=sr_1_11?crid=14HC1JDGC1LS7&dib=eyJ2IjoiMSJ9.Qv5sd6YRU5jrxy7HPOFoLyi2IjAuO3jfehov1XbC6Jq2G0g2MigK3unIqRR7Xe_nWuKJEfDxsjB9Kn-zY3jdLSdiBS4vWhta1KiXQQZBaj79TKopOPU_pSyfzK_rcEUrmcXKBlkV-PxvI5HcU00Pe3dj8b8KKCaHnauYIDkVLG0fXTfaWp_dn7P2MMtTsGzZH-Z9p5gSKFRPPUUhCXBJeV1UQE61ecnS_X481jKXITp4wQgRp-Fbiz9LTMmokG56dYVFbnZ90O_ri1GQ6cHtERSmHi04oPeO6Zqo9UTAkgY.7vol7Szu-4koW96JxbWyKmumikHRa5VZLFI1roxVixs&dib_tag=se&keywords=frame%2Bmountable%2Bbicycle%2Bpump&qid=1764447388&sprefix=framountable%2Bbicycle%2Bpump%2Caps%2C413&sr=8-11&th=1)
+- [USB Rechargeable](https://www.amazon.com/Portable-Compressor-Compact-Powerful-Inflator/dp/B0DYRNBY6Y/ref=sr_1_12_sspa?crid=14HC1JDGC1LS7&dib=eyJ2IjoiMSJ9.Qv5sd6YRU5jrxy7HPOFoLyi2IjAuO3jfehov1XbC6Jq2G0g2MigK3unIqRR7Xe_nWuKJEfDxsjB9Kn-zY3jdLSdiBS4vWhta1KiXQQZBaj79TKopOPU_pSyfzK_rcEUrmcXKBlkV-PxvI5HcU00Pe3dj8b8KKCaHnauYIDkVLG0fXTfaWp_dn7P2MMtTsGzZH-Z9p5gSKFRPPUUhCXBJeV1UQE61ecnS_X481jKXITp4wQgRp-Fbiz9LTMmokG56dYVFbnZ90O_ri1GQ6cHtERSmHi04oPeO6Zqo9UTAkgY.7vol7Szu-4koW96JxbWyKmumikHRa5VZLFI1roxVixs&dib_tag=se&keywords=frame+mountable+bicycle+pump&qid=1764449971&sprefix=framountable+bicycle+pump%2Caps%2C413&sr=8-12-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1)
+
